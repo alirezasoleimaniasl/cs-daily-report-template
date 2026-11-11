@@ -73,18 +73,29 @@
 
 ---
 
-### چهارشنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
+### چهارشنبه (20-08-1405)
+- **ساعت کاری امروز:** 3
 - **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [ خیر]
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسه
+#### 📋  آیتم [2] : What is debugging?
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14177|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/emuJS48s|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/Alireza93solei/status/2120596337628463362 |
+
+</div>
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+خواندن استادی آیتم 1 - خواندن استادی آیتم 2 و تکمیل آن
 
 <br>
 
