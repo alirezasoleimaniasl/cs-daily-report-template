@@ -101,18 +101,29 @@
 
 ---
 
-### پنج‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### پنج‌شنبه (21-08-1405)
+- **ساعت کاری امروز:** 01:00
+- **رضایت امروز:** [50]٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [ خیر]
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسه
 
+#### 📋 تسک / آیتم [شماره] : نام تسک
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14179 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/emfKaa4h|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/Alireza93solei/status/2120974258843296089 |
+
+</div>
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+مطالعه و انجام آیتم استادی 3
 
 <br>
 
