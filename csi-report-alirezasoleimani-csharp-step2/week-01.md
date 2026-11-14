@@ -205,7 +205,7 @@
 
 بدون جلسه
 
-#### 📋 تسک  [3] : Create a GitHub account
+#### 📋 تسک  [3 از استپ صفر] : Create a GitHub account
 
 <div dir="rtl">
 
