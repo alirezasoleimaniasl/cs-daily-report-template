@@ -12,7 +12,7 @@
 | **نام کارآموز**           | [علیرضا سلیمانی اصل]         |
 | **نام کوردیناتور**        | [خانم پروانه بیگلو]  |
 | **شماره استپ**            | استپ [2]      |
-| **لینک سند استپ**         | [[لینک را اینجا قرار دهید](https://github.com/alirezasoleimaniasl/cs-daily-report-template/blob/main/csi-report-alirezasoleimani-csharp-step2/week-01.md)] |
+| **لینک سند استپ**         | [[cs-daily-report-template/csi-report-alirezasoleimani-csharp-step2/week-02.md at main · alirezasoleimaniasl/cs-daily-report-template](https://github.com/alirezasoleimaniasl/cs-daily-report-template/blob/main/csi-report-alirezasoleimani-csharp-step2/week-02.md)] |
 | **ساعت توافقی هفتگی**     | [15] ساعت         |
 | **قول استپ (ددلاین)**     | 14-09-1405        |
 
