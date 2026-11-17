@@ -79,18 +79,41 @@
 
 ---
 
-### سه‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### سه‌شنبه (26-08-1405)
+- **ساعت کاری امروز:** 03:00
+- **رضایت امروز:** [100]٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [خیر]
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+جلسه مبانی ارتباطات ویدیو شماره 5
 
+#### 📋  آیتم [5] : C# Breakpoints and Conditions
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14196|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/euAbZN3U|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/Alireza93solei/status/2122786567723049034|
+
+</div>
+
+#### 📋  آیتم [6] : How to Debug in Visual Studio
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14197 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/eNaET58w|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/Alireza93solei/status/2122786822497370286|
+
+</div>
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+مطالعه و انجام آیتم شماره 5 و 6
 
 <br>
 
@@ -187,7 +210,7 @@
 
 | معیار ارزیابی | مقدار |
 | --- | --- |
-| **مجموع ساعات این هفته** | 5 از 15 ساعت |
+| **مجموع ساعات این هفته** | 8 از 15 ساعت |
 | **رضایت کلی** | [100]% |
 
 </div>
