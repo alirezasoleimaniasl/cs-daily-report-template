@@ -88,7 +88,7 @@
 
 جلسه مبانی ارتباطات ویدیو شماره 5
 
-#### 📋  آیتم [5] : C# Breakpoints and Conditions
+#### 📋  آیتم [6] : C# Breakpoints and Conditions
 
 <div dir="rtl">
 
@@ -100,7 +100,7 @@
 
 </div>
 
-#### 📋  آیتم [6] : How to Debug in Visual Studio
+#### 📋  آیتم [7] : How to Debug in Visual Studio
 
 <div dir="rtl">
 
