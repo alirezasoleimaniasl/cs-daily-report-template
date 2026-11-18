@@ -20,7 +20,7 @@
 
 ---
 
-## فعالیت‌های هفته N
+## فعالیت‌های هفته 2
 
 > **کد نمونه (Snippet):** بلوک کد زیر را کپی کنید و در هر روزی که فعالیت داشتید، آن را پس از سه ردیف بالای روز و پیش از بخش «جلسات» قرار دهید. عبارت `تسک / آیتم [شماره]` را با نام تسک یا موضوع مطالعه‌ی خود جایگزین کنید.
 
@@ -70,6 +70,7 @@
 | ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/Alireza93solei/status/2122411799941148919 |
 
 </div>
+
 **گزارش توصیفی:**
 
 ویدیو کارگاه فنی مبانی ارتباطات شماره 5 رو دیدم و گزارش رو نوشته و پیوست کردم.
@@ -111,6 +112,7 @@
 | ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/Alireza93solei/status/2122786822497370286|
 
 </div>
+
 **گزارش توصیفی:**
 
 مطالعه و انجام آیتم شماره 6 و 7
@@ -119,18 +121,54 @@
 
 ---
 
-### چهارشنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### چهارشنبه (27-08-1405)
+- **ساعت کاری امروز:** 01:30
+- **رضایت امروز:** [100]٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [خیر]
 
 **جلسات:**
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+بدون جلسi
+
+#### 📋 تسک  [1] : Communication Workshop Video number 5
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14199 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/excWN5rt|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/Alireza93solei/status/2123145802784682432 |
+
+</div>
+
+#### 📋 تسک  [3] : Three C# Bloggers
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14201|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) |https://lnkd.in/p/eXvedTPJ |
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) |https://x.com/Alireza93solei/status/2123142930114494556 |
+
+</div>
+
+#### 📋 تسک  [4] : نام تسک
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) |https://t.me/c/1326872711/14200 |
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/e-PWV3qR|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/Alireza93solei/status/2123144708775981557|
+
+</div>
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
+انجام تسک شماره 1، 3 و 4 و انتشار پست‌های مربوطه
 
 <br>
 
