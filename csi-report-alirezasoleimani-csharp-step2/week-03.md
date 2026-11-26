@@ -85,19 +85,32 @@
 
 ---
 
-### پنج‌شنبه (روز-ماه-سال)
-- **ساعت کاری امروز:** xx
-- **رضایت امروز:** [XX]٪
-- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [بله / خیر]
+### پنج‌شنبه (05-09-1405)
+- **ساعت کاری امروز:** 02:00
+- **رضایت امروز:** [60]٪
+- **آیا به ۲۵ ساعت فعالیت برای شرکت در جلسه همیاری فنی رسیده‌اید؟** [ خیر]
 
 **جلسات:**
+بدون جلسه
 
-(یک پاراگراف کوتاه درباره‌ی جلسه‌های آن روز؛ اگر جلسه‌ای نبود بنویسید: بدون جلسه)
+
+#### 📋  آیتم [8] : Learn more about Large Language Models (LLMs)
+
+<div dir="rtl">
+
+| شبکه اجتماعی | لینک |
+| --- | --- |
+| ![تلگرام](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/telegram-icon.svg) | https://t.me/c/1326872711/14221|
+| ![لینکدین](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/linkedin-icon.svg) | https://lnkd.in/p/e4bDDRUS|
+| ![توییتر](https://raw.githubusercontent.com/cs-internship/cs-daily-report-template/refs/heads/main/images/twitter-icon.svg) | https://x.com/Alireza93solei/status/2126049683663647135|
+
+</div>
+
 
 **گزارش توصیفی:**
 
-(چند خط توضیح پیوسته درباره‌ی کاری که امروز انجام دادید؛ نه فقط فهرست کارها)
-
+مطالعه استادی آیتم 1
+مطالعه و انجام استادی آیتم 8
 <br>
 
 ---
